@@ -1,4 +1,4 @@
-FROM lancachenet/ubuntu:latest
+FROM poeticdeath/ubuntu:latest
 MAINTAINER LanCache.Net Team <team@lancache.net>
 ARG DEBIAN_FRONTEND=noninteractive
 COPY overlay/ /
